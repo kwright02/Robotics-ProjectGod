@@ -1,2 +1,5 @@
-# 2867
-Team 2867's repository during the 2017 - 2018 FTC season.
+# ProjectGod
+ProjectGod is an attempt at coordinate based movement accross the playing field
+## Usage
+Usage for this recource will be posted at some time.
+
